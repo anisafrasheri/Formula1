@@ -62,7 +62,7 @@ The main classes and their responsibilities:
 Contributions are welcome! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/anisafrasheri/Formula1/blob/50b20960f3fa5bb6867b50f473c7d44f43347557/LICENSE) file for details.
 
 ## Acknowledgments
 Java Swing for GUI components.
